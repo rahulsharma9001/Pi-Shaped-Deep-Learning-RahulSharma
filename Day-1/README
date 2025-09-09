@@ -1,5 +1,7 @@
 # Day 1: Neural Networks Workshop - Breast Cancer Classification
 
+---
+
 ## Overview
 
 This project implements a **feedforward neural network** to perform binary classification on the Breast Cancer dataset available from scikit-learn. The objective is to build, train, and evaluate a neural network that can accurately classify tumors as malignant or benign.
