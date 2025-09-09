@@ -92,4 +92,4 @@ Plotting predicted versus actual opening prices provides visual insight into the
 - matplotlib
 - TensorFlow (Keras)
 
-Install them with: ** pip install pandas numpy scikit-learn matplotlib tensorflow**
+Install them with: **pip install pandas numpy scikit-learn matplotlib tensorflow**
